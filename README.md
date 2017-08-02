@@ -1,0 +1,2 @@
+# DeckBracer
+Took a long weekend from programming for the simple reason of having to help finish off two decks. In inspiration for the project and muddling through determining the number of bracers for each deck I decided to write this program to better accomplish the simple task of math. Better late than never. Hope you enjoy. Remember 16 inch from center. {Side note: I will be adding a try catch block to this code at a later date to handle possible string input for the measurement of feet}
